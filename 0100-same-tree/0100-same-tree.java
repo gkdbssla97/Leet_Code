@@ -23,10 +23,8 @@ class Solution {
         //전위순회로 다 밀면 되지않나?
         preOrder(p, 1);
         preOrder(q, 2);
-        boolean isEqual = IntStream.range(0, arr1.size()).allMatch(e -> arr1.get(e).equals(arr2.get(e)));
-        System.out.println(arr1);
-        System.out.println(arr2);
-        return isEqual;
+        
+        return arr1.equals(arr2);
     }
     public void preOrder(TreeNode p, int i) {
         if(p == null) {
