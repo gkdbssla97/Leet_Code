@@ -18,25 +18,9 @@ class Solution {
     static List<Integer> arr2;
     public boolean isSameTree(TreeNode p, TreeNode q) {
         if(p == null && q == null) return true;
-        arr1 = new ArrayList<>();
-        arr2 = new ArrayList<>();
-        //전위순회로 다 밀면 되지않나?
-        preOrder(p, 1);
-        preOrder(q, 2);
+
+        if(p == null || q == null || p.val != q.val) return false;
         
-        return arr1.equals(arr2);
-    }
-    public void preOrder(TreeNode p, int i) {
-        if(p == null) {
-            // System.out.println("널이다");
-            if(i == 1) arr1.add(1_000_000);
-        if(i == 2) arr2.add(1_000_000);
-            return;
-        }
-        System.out.println(p.val);
-        if(i == 1) arr1.add(p.val);
-        if(i == 2) arr2.add(p.val);
-        preOrder(p.left, i);
-        preOrder(p.right, i);
+        return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
     }
 }
