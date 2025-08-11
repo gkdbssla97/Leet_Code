@@ -11,15 +11,15 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        ListNode tmp = head;
-        HashSet<ListNode> set = new HashSet<>();
-            // System.out.println();
-        while(tmp != null) {
-            if(set.contains(tmp)) {
-                return true;
-            }
-            set.add(tmp);
-            tmp = tmp.next;
+        ListNode l = head;
+        ListNode r = head;
+        
+        // System.out.println();
+        while(r != null && r.next != null) {
+            
+            l = l.next;
+            r = r.next.next;
+            if(l == r) return true;
         }
         return false;
     }
