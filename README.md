@@ -55,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gkdbssla97/Leet_Code/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/gkdbssla97/Leet_Code/tree/master/0146-lru-cache) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gkdbssla97/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gkdbssla97/Leet_Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/gkdbssla97/Leet_Code/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/gkdbssla97/Leet_Code/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/gkdbssla97/Leet_Code/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -74,9 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/gkdbssla97/Leet_Code/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/gkdbssla97/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/gkdbssla97/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gkdbssla97/Leet_Code/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
