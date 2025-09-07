@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gkdbssla97/Leet_Code/tree/master/0053-maximum-subarray) |
+| [0239-sliding-window-maximum](https://github.com/gkdbssla97/Leet_Code/tree/master/0239-sliding-window-maximum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,8 +83,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/gkdbssla97/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/gkdbssla97/Leet_Code/tree/master/0239-sliding-window-maximum) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/gkdbssla97/Leet_Code/tree/master/0146-lru-cache) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/gkdbssla97/Leet_Code/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/gkdbssla97/Leet_Code/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/gkdbssla97/Leet_Code/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
