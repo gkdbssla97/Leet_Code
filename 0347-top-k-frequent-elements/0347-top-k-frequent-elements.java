@@ -38,10 +38,11 @@ class Solution {
             }
         }
         int[] res = new int[k];
-        int idx = 0;
-        while(!pq.isEmpty()) {
-            res[idx++] = pq.poll().key;
+        int idx = k - 1;  // Min-Heap은 오름차순이므로 뒤에서부터 채움
+        while (!pq.isEmpty()) {
+            res[idx--] = pq.poll().key;
         }
+
         return res;
     }
 
