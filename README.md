@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/gkdbssla97/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0239-sliding-window-maximum](https://github.com/gkdbssla97/Leet_Code/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/gkdbssla97/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gkdbssla97/Leet_Code/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/gkdbssla97/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gkdbssla97/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/gkdbssla97/Leet_Code/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/gkdbssla97/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -96,8 +99,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/gkdbssla97/Leet_Code/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/gkdbssla97/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/gkdbssla97/Leet_Code/tree/master/0239-sliding-window-maximum) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/gkdbssla97/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/gkdbssla97/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/gkdbssla97/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/gkdbssla97/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
